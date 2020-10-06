@@ -27,7 +27,7 @@ class MyBook extends Book {
      **/
     // Write your method here
     display() {
-        console.log('Title: ' + this.title + '\n' + 'Author: ' + this.author + '\n' + 'Price: ' + this.price);
+        console.log('Title of book: ' + this.title + '\n' + 'Author of book: ' + this.author + '\n' + 'Price of book: ' + this.price);
     }
 
     // End class
